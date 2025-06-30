@@ -41,7 +41,7 @@ The dataset includes transactional records from a superstore, including:
 **Adenike Ajibola**  
 Passionate about transforming raw data into powerful, interactive dashboards that drive business decisions.
 
-Connect with me on [LinkedIn](#)  
+Connect with me on [LinkedIn](#www.linkedin.com/in/odunola-adenike-ajibola-0a71b2356)  
 (Replace the link above with your actual profile link)
 
 ---
